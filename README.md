@@ -1,5 +1,5 @@
 
-<p align="center">Hi there 👋 I'm Mauricio Jimenez 😁</p>
+# <p align="center">Hi there 👋 I'm Mauricio Jimenez 😁</p>
 
 <!--
 **JMJSGH/JMJSGH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
