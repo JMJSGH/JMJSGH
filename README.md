@@ -9,7 +9,7 @@
 - 🔬 My research focuses on **trajectory prediction and drift correction using neural networks and IMU data**.
 
 #### 📚 Education & Certifications
-- **B.Sc. in Applied Physics** - Universidad Autónoma de Baja California.
+- **B.Sc. in Physics** - Universidad Autónoma de Baja California.
 - **M.Sc. in Computer Science** - Centro de Investigación Científica y de Educación Superior de Ensenada.
 - **Certifications:**
   - TensorFlow Developer Certificate
