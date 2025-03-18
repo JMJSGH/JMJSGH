@@ -1,5 +1,5 @@
 
-# <p align="center">Hi there 👋 I'm Mauricio Jiménez 😁</p>
+# <p align="center">Hi there 👋 I'm Mauricio Jiménez</p>
 
 ### <p align="center">Welcome to my GitHub profile! Here's some info:</p>
 
