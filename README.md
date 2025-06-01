@@ -14,6 +14,7 @@
 - **Certifications:**
   - TensorFlow Developer Certificate.
   - Deep Learning Specialization.
+  - Machine Learning on Google Cloud.
 
 #### ⚙️ Tech Stack
 - **Programming Languages:** Python, C#, JavaScript
